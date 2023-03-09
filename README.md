@@ -73,7 +73,7 @@
   
 <div>
  
-<img align="right" width="450" src="https://camo.githubusercontent.com/6e44bc35fb6101eee7ea714937413aa80b8c786bd7bb83861801c48ed404d851/68747470733a2f2f692e706f7374696d672e63632f4732536777547a642f72696768742e676966"/>
+<img align="right" width="400" src="https://camo.githubusercontent.com/6e44bc35fb6101eee7ea714937413aa80b8c786bd7bb83861801c48ed404d851/68747470733a2f2f692e706f7374696d672e63632f4732536777547a642f72696768742e676966"/>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ILoveYou00&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
