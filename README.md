@@ -35,15 +35,6 @@
 - 📫 How to reach me: QQ：2676256265
 - ⚡ Fun fact: Listening to music and drawing
 
-#### 🏢 Work Experience
-
-
-- [bocloud](https://www.bocloud.com.cn/) &emsp; 📌 2022-11-5 —— Now
-
-  - 工作岗位：实习生
-  - 工作内容：后端开发
-  - 工作方向：云原生
-
 </td>
 </tr>
 
